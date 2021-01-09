@@ -107,7 +107,7 @@
       else if (array[i] == d.getHours()) {
         $("#" + array[i]).attr("class", "present")
       }
-      else if (array[i] < d.getHours()) {
+      else if (array[i] > d.getHours()) {
         $("#" + array[i]).attr("class", "future")
       }
     }
