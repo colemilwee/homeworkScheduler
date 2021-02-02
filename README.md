@@ -7,3 +7,4 @@ what happens next is i make an array for the hours with the ids i used earlier a
 i made click events for every button using the ids and give it a function that links to a function to seperate them
 the next thing that happens is a case switch so that each calendar button can save the text in the right area
 and last is the local storage that sets the item
+https://colemilwee.github.io/homeworkScheduler/
